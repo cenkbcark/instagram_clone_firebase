@@ -6,7 +6,5 @@
 
 <h1>Demo</h1>
 
-
-
-https://user-images.githubusercontent.com/79763515/185610962-2b90c972-2a8d-4895-8cff-425acc571aec.mov
+<img src="https://user-images.githubusercontent.com/79763515/185611971-b644e3b0-ac6a-4ac1-950e-f2f104eb6cbf.gif"/>
 
